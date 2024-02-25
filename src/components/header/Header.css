@@ -1,0 +1,26 @@
+/* Agrega estilos según sea necesario */
+.header-container {
+    background-color: #4CAF50; /* Color de fondo del header */
+    padding: 15px; /* Espaciado interno del header */
+    color: white; /* Color del texto del header */
+    margin-bottom: 90px; /* Margen superior del header */
+  }
+  
+  nav ul {
+    list-style-type: none; /* Elimina los puntos de la lista */
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block; /* Coloca los elementos de la lista en línea */
+    margin-right: 20px; /* Espaciado entre elementos de la lista */
+  }
+  
+  nav ul li a {
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    color: white; /* Color del texto del enlace */
+    font-weight: bold; /* Texto en negrita */
+    font-size: 16px; /* Tamaño de fuente del enlace */
+  }
+  

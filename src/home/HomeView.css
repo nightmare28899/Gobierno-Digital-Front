@@ -1,0 +1,59 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 80vh;
+  height: 50vh;
+  color: white;
+}
+
+.mi-tabla {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.mi-tabla th,
+.mi-tabla td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.mi-tabla th {
+  background-color: #b6abab73;
+}
+
+.mi-tabla button {
+  margin-right: 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.btn-editar {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+.btn-eliminar {
+  background-color: #f44336;
+  color: white;
+  border: none;
+}
+
+.btn-crear {
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.btn-cerrar {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}

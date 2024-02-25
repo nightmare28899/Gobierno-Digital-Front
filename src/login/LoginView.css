@@ -1,0 +1,15 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  height: 46vh !important;
+  background-color: rgba(86, 105, 146, 0.836);
+  width: 30vh !important;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.formContainer {
+  display: "flex";
+  padding: "20px";
+}

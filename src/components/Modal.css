@@ -1,0 +1,6 @@
+.close {
+    padding: 10px;
+    cursor: pointer;
+    color: #000;
+    border-radius: 0 0 0 5px;
+}
